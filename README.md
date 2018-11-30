@@ -1,6 +1,6 @@
 # The Triangle Challenge
 
-This project is an example C#/.net console application. It allows the user to input three triangle lengths, and, in return, the application will return the kind of triangle.
+This project is an example C#/.net console application. It allows the user to input three triangle lengths, and, in return, the application will return some basic information.
 
 # Running the project
 
