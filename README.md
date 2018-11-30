@@ -21,7 +21,7 @@ Within the project's folder run: `dotnet test`
 # Project Notes
 
 ## Project Assumptions
-- The "Triangle" type for triangle classification was used a catch all type for those that were not listed
+- The "Triangle" type for triangle classification was used aa a catch all for those that were not listed
 
 ## License
 
