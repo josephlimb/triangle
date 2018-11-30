@@ -18,14 +18,11 @@ Within the project's folder run: `dotnet run --project TriangleService`
 
 Within the project's folder run: `dotnet test`
 
-# Project Assumptions
+# Project Notes
+
+## Project Assumptions
 - The "Triangle" type for triangle classification was used a catch all type for those that were not listed
 
+## License
 
-# How to run the application
-
-To run the project, install the .NET SDK, on your desired platform, and then run the project using `dotnet run` from within the project's base directory.
-
-# How to run the tests
-
-To run the project's tests, use the command `dotnet test`.
+This code is open source, but it is not licensed for re-use. Credit goes to https://github.com/dotnet/samples/tree/master/core/getting-started/unit-testing-using-nunit for examples setting up a NUnit project.
